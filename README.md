@@ -1,242 +1,156 @@
 
-<!-- =========================================================
-     PRADYUMAN MISHRA — GITHUB PROFILE README
-     Repository: PradyumanMishra20/PradyumanMishra20
-========================================================== -->
+<!--
+  PRADYUMAN MISHRA
+  DESIGN SYSTEM: THE BUILD ARCHIVE
+  Repository: PradyumanMishra20/PradyumanMishra20
+-->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0A0F1A,50:142B45,100:E08B6A&text=Pradyuman%20Mishra&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Pradyuman Mishra profile banner"/>
-
-<a href="https://pradyumanmishra20.github.io/pradyumnDeveloper/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-E08B6A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/PradyumanMishra20">
-  <img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/pradyuman-mishra-918902402">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=05070B&height=260&section=header&text=BUILD%20ARCHIVE&fontSize=58&fontColor=E8E4DA&fontAlignY=42&desc=PRADYUMAN%20MISHRA%20%2F%20ENGINEERING%20LOG%20001&descSize=13&descAlignY=65&animation=fadeIn" width="100%" alt="Build Archive — Pradyuman Mishra"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=E08B6A&center=true&vCenter=true&width=700&lines=Building+useful+web+experiences;Exploring+full-stack+development;Working+on+AI-powered+applications;Learning%2C+building%2C+and+improving" alt="Animated introduction"/>
+<pre>
+  ┌──────────────────────────────────────────────────────┐
+  │  OPERATOR       PRADYUMAN MISHRA                     │
+  │  DIVISION       SOFTWARE / WEB / AI                  │
+  │  BASE           MUMBAI, INDIA                        │
+  │  DIRECTIVE      TURN IDEAS INTO WORKING SYSTEMS      │
+  │  ACCESS         OPEN SOURCE PROFILE                  │
+  └──────────────────────────────────────────────────────┘
+</pre>
+
+[ PORTFOLIO ↗ ](https://pradyumanmishra20.github.io/pradyumnDeveloper/) ·
+[ GITHUB ↗ ](https://github.com/PradyumanMishra20) ·
+[ LINKEDIN ↗ ](https://www.linkedin.com/in/pradyuman-mishra-918902402)
 
 </div>
 
 ---
 
-## `01` — About Me
+<sub>ARCHIVE INDEX / 00 — OPERATOR PROFILE</sub>
 
-Hey! I'm **Pradyuman Mishra**, a BSc IT student and developer from Mumbai, India.
+# Not here to collect badges. Here to build things.
 
-- Currently pursuing my degree at Thakur College of Science and Commerce.
-- Interested in web development, backend engineering, and AI-powered applications.
-- Building independent projects and collaborating on hackathon projects.
-- Focused on writing maintainable code, integrating APIs, and improving my development skills.
-- Always learning something new and turning ideas into working projects.
+I'm Pradyuman — an Information Technology student exploring the intersection of web engineering, backend systems, and AI-powered applications.
 
-```javascript
-const pradyuman = {
-  location: "Mumbai, India",
-  education: "BSc Information Technology",
-  interests: [
-    "Web Development",
-    "Backend Engineering",
-    "AI Applications",
-    "Problem Solving"
-  ],
-  currentFocus: [
-    "React",
-    "Backend Development",
-    "API Integration",
-    "Data Structures & Algorithms"
-  ],
-  openTo: ["Learning", "Collaboration", "Project Opportunities"]
-};
+I build personal projects, work with teams on technical challenges, and learn by turning ideas into actual software.
+
+```text
+CURRENT OPERATING AREAS
+────────────────────────────────────────────────────
+01 / INTERFACE     React · Next.js · TypeScript
+02 / INFRASTRUCTURE Node.js · FastAPI · REST APIs
+03 / DATA           MongoDB · MySQL · PostgreSQL
+04 / INTELLIGENCE   AI integrations · Geospatial systems
+05 / WORKBENCH      Git · GitHub · VS Code
+────────────────────────────────────────────────────
+STATUS             LEARNING / BUILDING / ITERATING
 ```
 
----
-
-## `02` — Tech Stack
-
-<div align="center">
-
-### Languages & Core Technologies
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp" alt="Programming languages" />
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer" alt="Frontend technologies" />
-
-### Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,postgres" alt="Backend and database technologies" />
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,render,postman" alt="Development tools and platforms" />
-
-</div>
+<sub>LOCATION: MUMBAI, INDIA &nbsp; / &nbsp; EDUCATION: BSc INFORMATION TECHNOLOGY</sub>
 
 ---
 
-## `03` — Featured Independent Projects
+<sub>ARCHIVE INDEX / 01 — SELECTED BUILDS</sub>
 
-Projects built independently or developed as personal projects.
+# The project vault
+
+<sub>INDEPENDENT WORK / PERSONAL BUILDS</sub>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛍️ VLER
+<sub>01.01 &nbsp; / &nbsp; COMMERCE SYSTEM</sub>
 
-**Streetwear E-commerce**
+## VLER
 
-A streetwear shopping experience focused on modern product presentation and a responsive shopping interface.
+**A streetwear experience.**
 
-**Tech:** Next.js, TypeScript, Tailwind CSS, Zustand
+A modern streetwear storefront focused on product presentation, responsive design, and a smooth shopping interface.
 
-<a href="https://vler.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Visit%20VLER-E08B6A?style=for-the-badge" alt="VLER live demo"/>
-</a>
+`NEXT.JS` `TYPESCRIPT` `TAILWIND` `ZUSTAND`
+
+[ OPEN LIVE PROJECT ↗](https://vler.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 ProposalGen
+<sub>01.02 &nbsp; / &nbsp; AI APPLICATION</sub>
 
-**AI Proposal Generator**
+## ProposalGen
 
-A web application designed to help generate project proposals using AI.
+**Ideas into proposals.**
 
-**Tech:** JavaScript, AI API integration
+An AI-powered web application designed to help users generate project proposals.
 
-<a href="https://proposalgen.onrender.com/">
-  <img src="https://img.shields.io/badge/Live%20Demo-Open%20App-142B45?style=for-the-badge" alt="ProposalGen live demo"/>
-</a>
+`JAVASCRIPT` `AI API INTEGRATION`
+
+[ OPEN LIVE PROJECT ↗](https://proposalgen.onrender.com/)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 📝 NoteEase
+<sub>01.03 &nbsp; / &nbsp; NOTES PLATFORM</sub>
 
-**Notes Delivery Platform**
+## NoteEase
 
-A platform concept for handwritten notes delivery, designed around a pay-after-delivery workflow.
+**Notes, delivered.**
 
-**Tech:** HTML, CSS, JavaScript, Node.js, MySQL
+A website for a handwritten-notes delivery concept with a pay-after-delivery workflow.
 
-<a href="https://pradyumanmishra20.github.io/noteease-website/">
-  <img src="https://img.shields.io/badge/Live%20Website-Explore-E08B6A?style=for-the-badge" alt="NoteEase website"/>
-</a>
+`HTML` `CSS` `JAVASCRIPT` `NODE.JS` `MYSQL`
+
+[ OPEN WEBSITE ↗](https://pradyumanmishra20.github.io/noteease-website/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Teenlancer
+<sub>01.04 &nbsp; / &nbsp; CREATOR ECONOMY</sub>
 
-**Freelancing Platform UI**
+## Teenlancer
 
-A responsive interface project exploring the presentation of a platform for young freelancers.
+**A freelancing platform concept.**
 
-**Tech:** HTML, CSS, JavaScript
+A responsive web interface exploring a platform experience for young freelancers.
 
-<a href="https://pradyumanmishra20.github.io/teenlancer/">
-  <img src="https://img.shields.io/badge/Live%20Website-Explore-142B45?style=for-the-badge" alt="Teenlancer website"/>
-</a>
+`HTML` `CSS` `JAVASCRIPT`
+
+[ OPEN WEBSITE ↗](https://pradyumanmishra20.github.io/teenlancer/)
 
 </td>
 </tr>
-</table>
-
-### More on the Web
-
-- **[Personal Portfolio](https://pradyumanmishra20.github.io/pradyumnDeveloper/)** — My developer portfolio.
-- **[Additional Web Project](https://pradyuman.onrender.com/)** — Another deployed web project.
-
----
-
-## `04` — Hackathons & Team Projects
-
-I have also collaborated on team projects, contributing as a **Backend Developer**.
-
-<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ SatQuery AI
+<sub>01.05 &nbsp; / &nbsp; PERSONAL SYSTEM</sub>
 
-**AI-Powered Satellite Data Intelligence**
+## Portfolio
 
-A platform for querying satellite and geospatial data in natural language, exploring map-based results, running analysis workflows, and generating reports.
+**My own corner of the internet.**
 
-- Natural-language query workflows
-- Geospatial maps and visualization
-- Satellite data analysis and verification
-- Report and data exports
-- Real-time public data feeds
+A personal website showcasing my developer profile and work.
 
-**Tech:** Python, FastAPI, React, Vite, MongoDB, Leaflet
+`WEB DEVELOPMENT` `RESPONSIVE DESIGN`
 
-<a href="https://satquery-ai-space.vercel.app/">
-  <img src="https://img.shields.io/badge/Launch%20Application-142B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch SatQuery AI"/>
-</a>
-
-<a href="https://satquery-ai-gilt.vercel.app/">
-  <img src="https://img.shields.io/badge/App%20Download%20Website-E08B6A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="SatQuery AI download website"/>
-</a>
+[ ENTER PORTFOLIO ↗](https://pradyumanmishra20.github.io/pradyumnDeveloper/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🌍 OrbitIQ
+<sub>01.06 &nbsp; / &nbsp; ADDITIONAL BUILD</sub>
 
-**Satellite Intelligence & Geospatial Workflows**
+## Web Project
 
-A satellite-data intelligence project focused on query processing, authentication, geospatial workflows, APIs, and data management.
+**Another deployed experiment.**
 
-- Backend API development
-- Authentication and session workflows
-- Geospatial query and data workflows
-- Data management and integrations
+An additional web project in my collection.
 
-**Tech:** Python, FastAPI, MongoDB, REST APIs
-
-<a href="https://orbit-srm-rbli.vercel.app/">
-  <img src="https://img.shields.io/badge/Launch%20Application-142B45?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Launch OrbitIQ"/>
-</a>
-
-<a href="https://orbit-srm.vercel.app/">
-  <img src="https://img.shields.io/badge/App%20Download%20Website-E08B6A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="OrbitIQ download website"/>
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" valign="top">
-
-### ⚙️ Procelya AI
-
-**AI-Powered Business Workflow Platform**
-
-A team project exploring how natural-language business requirements can be transformed into structured workflows, visually edited, validated, and monitored.
-
-- AI-assisted workflow generation
-- Visual workflow editing
-- Workflow validation
-- Execution monitoring and run logs
-
-**Tech:** React, Vite, TypeScript, Tailwind CSS, Node.js, MongoDB, Mongoose, LLM integration
-
-<a href="https://vedantmh48-cpu.github.io/Procelya-AI/">
-  <img src="https://img.shields.io/badge/Live%20Project-Explore-E08B6A?style=for-the-badge" alt="Procelya AI live project"/>
-</a>
+[ OPEN LIVE PROJECT ↗](https://pradyuman.onrender.com/)
 
 </td>
 </tr>
@@ -244,42 +158,163 @@ A team project exploring how natural-language business requirements can be trans
 
 ---
 
-## `05` — GitHub Analytics
+<sub>ARCHIVE INDEX / 02 — COLLABORATIVE SYSTEMS</sub>
 
-<div align="center">
+# Projects built with a team
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=PradyumanMishra20&show_icons=true&hide_border=true&bg_color=0A0F1A&title_color=E08B6A&text_color=CBD5E1&icon_color=E08B6A&rank_icon=github" alt="GitHub statistics"/>
+<sub>ROLE ACROSS THESE PROJECTS: BACKEND DEVELOPER</sub>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyumanMishra20&layout=compact&hide_border=true&bg_color=0A0F1A&title_color=E08B6A&text_color=CBD5E1" alt="Most used programming languages"/>
+<table>
+<tr>
+<td colspan="2">
+
+<sub>02.01 &nbsp; / &nbsp; GEOSPATIAL INTELLIGENCE</sub>
+
+# SATQUERY AI
+
+### Ask questions. Explore the Earth.
+
+A natural-language satellite-data platform designed to turn geospatial questions into analysis workflows, interactive map results, and downloadable reports.
+
+Its workflows cover satellite-data exploration, geospatial processing, verification, and real-time public data feeds. Demo results and live observations are distinguished rather than presented as the same thing.
+
+`PYTHON` `FASTAPI` `REACT` `MONGODB` `LEAFLET`
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=PradyumanMishra20&hide_border=true&background=0A0F1A&ring=E08B6A&fire=E08B6A&currStreakLabel=E08B6A&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="GitHub contribution streak"/>
+**APPLICATION**
 
-</div>
+[ LAUNCH SATQUERY AI ↗](https://satquery-ai-space.vercel.app/)
+
+**APP DOWNLOAD WEBSITE**
+
+[ OPEN DOWNLOAD WEBSITE ↗](https://satquery-ai-gilt.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<sub>02.02 &nbsp; / &nbsp; SATELLITE INTELLIGENCE</sub>
+
+# ORBITIQ
+
+### Data into decisions.
+
+A satellite-data intelligence project involving backend APIs, authentication, geospatial query workflows, and data management.
+
+`PYTHON` `FASTAPI` `MONGODB` `REST APIs`
+
+<br/>
+
+**APPLICATION**
+
+[ LAUNCH ORBITIQ ↗](https://orbit-srm-rbli.vercel.app/)
+
+**APP DOWNLOAD WEBSITE**
+
+[ OPEN DOWNLOAD WEBSITE ↗](https://orbit-srm.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+<sub>02.03 &nbsp; / &nbsp; WORKFLOW AUTOMATION</sub>
+
+# PROCELYA AI
+
+### From business requirements to workflows.
+
+A team project exploring AI-assisted workflow generation, visual editing, validation, and execution monitoring.
+
+The concept transforms natural-language requirements into structured workflows that can be reviewed and refined in a visual editor.
+
+`REACT` `VITE` `TYPESCRIPT` `TAILWIND` `NODE.JS` `MONGODB`
+
+<br/>
+
+[ ACCESS PROCELYA AI ↗](https://vedantmh48-cpu.github.io/Procelya-AI/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `06` — Let's Connect
+<sub>ARCHIVE INDEX / 03 — TECHNICAL INSTRUMENTS</sub>
 
-I'm interested in connecting with developers, collaborating on meaningful projects, and exploring opportunities to grow as a developer.
+# Tools in the workshop
 
 <div align="center">
 
-<a href="https://pradyumanmishra20.github.io/pradyumnDeveloper/">
-  <img src="https://img.shields.io/badge/Portfolio-E08B6A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/pradyuman-mishra-918902402">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/PradyumanMishra20">
-  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,react,nextjs,vite,tailwind,nodejs,fastapi,mongodb,mysql,postgres,git,github,vscode,vercel,render&perline=10" alt="Technologies and tools"/>
 
-<br/><br/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0A0F1A,100:142B45" width="100%" alt="Footer banner"/>
+<details>
+<summary><b>OPEN TECHNICAL INVENTORY</b></summary>
 
-**Building one project at a time.**
+<br/>
+
+| SYSTEM | TECHNOLOGIES |
+|:---|:---|
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, Next.js |
+| Styling | Tailwind CSS |
+| Backend | Node.js, FastAPI, REST APIs |
+| Data | MongoDB, MySQL, PostgreSQL |
+| AI & Integration | AI API integration, external APIs |
+| Tools | Git, GitHub, VS Code |
+| Deployment | Vercel, Render, GitHub Pages |
+
+</details>
+
+---
+
+<sub>ARCHIVE INDEX / 04 — ACTIVITY TELEMETRY</sub>
+
+# The work leaves traces.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=PradyumanMishra20&show_icons=true&hide_border=true&bg_color=05070B&title_color=E8A15A&text_color=C8CDD5&icon_color=E8A15A&rank_icon=github" width="49%" alt="GitHub overview"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradyumanMishra20&layout=compact&hide_border=true&bg_color=05070B&title_color=E8A15A&text_color=C8CDD5" width="49%" alt="Language overview"/>
+
+<img src="https://streak-stats.demolab.com?user=PradyumanMishra20&hide_border=true&background=05070B&ring=E8A15A&fire=FF7043&currStreakLabel=E8A15A&sideLabels=C8CDD5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8795" width="75%" alt="Contribution streak"/>
+
+</div>
+
+<sub>NOTE: ACTIVITY DATA IS PROVIDED BY EXTERNAL SERVICES AND MAY TAKE TIME TO UPDATE.</sub>
+
+---
+
+<sub>ARCHIVE INDEX / 05 — OPEN CHANNEL</sub>
+
+<div align="center">
+
+# Every build starts somewhere.
+
+I'm open to learning with other developers, collaborating on meaningful projects, and exploring opportunities to grow in software development.
+
+<br/>
+
+[ **VIEW PORTFOLIO ↗**](https://pradyumanmishra20.github.io/pradyumnDeveloper/)
+
+[ LINKEDIN ↗](https://www.linkedin.com/in/pradyuman-mishra-918902402) &nbsp; / &nbsp;
+[ GITHUB ↗](https://github.com/PradyumanMishra20)
+
+<br/>
+
+<pre>
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│   END OF CURRENT LOG                                 │
+│   NEXT ENTRY: STILL BEING BUILT                      │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=05070B&height=80&section=footer" width="100%" alt="Archive footer"/>
+
+<sub>PRADYUMAN MISHRA / BUILD ARCHIVE / 2026</sub>
 
 </div>
